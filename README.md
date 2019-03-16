@@ -1,4 +1,4 @@
-# Bomberman-
+# Bomberman
 
 ![Screenshot](preview_image.png)
 
