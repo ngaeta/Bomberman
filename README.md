@@ -1,4 +1,4 @@
-# Bomberman
+# Bomberman 2D
 
 ![Screenshot](preview_image.png)
 
